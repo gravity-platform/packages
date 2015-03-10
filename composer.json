@@ -12,6 +12,9 @@
         "build": "vendor/bin/satis -n build",
         "deploy": "vendor/bin/dodat"
     },
+    "config": {
+        "process-timeout": 1200
+    },
     "license": "GPL",
     "authors": [
         {
