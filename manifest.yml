@@ -1,0 +1,7 @@
+---
+applications:
+- name: gravity-platform-packages
+  buildpack: https://github.com/cloudfoundry-incubator/staticfile-buildpack.git
+  paths:
+  - dist/
+  memory: 64M

@@ -1,0 +1,21 @@
+{
+    "name": "gravity-platform/composer",
+    "description": "host open gravity-platform bundles",
+    "require": {
+        "composer/composer": "@dev",
+        "composer/satis": "@dev"
+    },
+    "require-dev": {
+        "hairmare/dodat": "@dev"
+    },
+    "scripts": {
+        "deploy": "vendor/bin/dodat"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Lucas Bickel",
+            "email": "lucas.bickel@swisscom.com"
+        }
+    ]
+}
