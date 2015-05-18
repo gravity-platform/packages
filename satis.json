@@ -1,6 +1,6 @@
 {
     "name": "Gravity-Platform Packages",
-    "homepage": "http://gravity-platform-packages-unstable.nova.scapp.io",
+    "homepage": "http://gravity-platform-packages.nova.scapp.io",
     "repositories": [
         {
             "type": "vcs",
