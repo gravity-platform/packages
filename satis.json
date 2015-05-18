@@ -1,0 +1,24 @@
+{
+    "name": "Gravity-Platform Packages",
+    "homepage": "http://gravity-platform-packages.nova.scapp.io",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://github.com/gravity-platform/GravitonRegistryBundle"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "libgraviton/swagger-ui",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/libgraviton/swagger-ui.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    ],
+    "output-dir": "dist/",
+    "require-all": true
+}
