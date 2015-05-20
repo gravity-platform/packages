@@ -7,6 +7,10 @@
             "url": "http://github.com/gravity-platform/GravitonRegistryBundle"
         },
         {
+            "type": "vcs",
+            "url": "https://github.com/libgraviton/GravitonCustomerBundle.git"
+        },
+        {
             "type": "package",
             "package": {
                 "name": "libgraviton/swagger-ui",
