@@ -8,7 +8,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/libgraviton/GravitonCustomerBundle.git"
+            "url": "https://github.com/libgraviton/GravitonTestServicesBundle.git"
         },
         {
             "type": "package",
