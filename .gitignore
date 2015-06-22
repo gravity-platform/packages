@@ -1,3 +1,4 @@
 /vendor/
 /dist/
 /deploy.local.sh
+app/config/deploy.yml

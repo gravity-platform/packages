@@ -1,3 +1,0 @@
-language: php
-script:
-  - bash deploy.sh
