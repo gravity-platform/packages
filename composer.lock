@@ -137,12 +137,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/libgraviton/deploy-scripts.git",
-                "reference": "a7b2721b7367632427a8ce537694c3c8f970843c"
+                "reference": "2ff3219b5516fb96d089d5724efd13bd05ee95a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/libgraviton/deploy-scripts/zipball/a7b2721b7367632427a8ce537694c3c8f970843c",
-                "reference": "a7b2721b7367632427a8ce537694c3c8f970843c",
+                "url": "https://api.github.com/repos/libgraviton/deploy-scripts/zipball/2ff3219b5516fb96d089d5724efd13bd05ee95a9",
+                "reference": "2ff3219b5516fb96d089d5724efd13bd05ee95a9",
                 "shasum": ""
             },
             "require": {
@@ -192,7 +192,7 @@
                 }
             ],
             "description": "low level deploy helpers",
-            "time": "2015-06-22 09:18:43"
+            "time": "2015-06-22 11:54:41"
         },
         {
             "name": "incenteev/composer-parameter-handler",
