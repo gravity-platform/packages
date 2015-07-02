@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e659c397a1132cd08bd4aaaed07752c9",
+    "hash": "461edf156364efcb77b802b86ffc5e9f",
     "packages": [
         {
             "name": "composer/composer",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "8775c948956c9e0e0a5fd723cd84c94b3ea3d7e9"
+                "reference": "d1a9cfbd634d3b9e3350a77189de9c6b20737111"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/8775c948956c9e0e0a5fd723cd84c94b3ea3d7e9",
-                "reference": "8775c948956c9e0e0a5fd723cd84c94b3ea3d7e9",
+                "url": "https://api.github.com/repos/composer/composer/zipball/d1a9cfbd634d3b9e3350a77189de9c6b20737111",
+                "reference": "d1a9cfbd634d3b9e3350a77189de9c6b20737111",
                 "shasum": ""
             },
             "require": {
@@ -75,7 +75,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2015-07-01 09:29:53"
+            "time": "2015-07-02 09:36:31"
         },
         {
             "name": "composer/satis",
@@ -83,12 +83,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/satis.git",
-                "reference": "f10eaf7a3093ebaf9ca56feb9a22d40addd87e41"
+                "reference": "0e8ea2bc28326219cae52142e166a63ba098f131"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/satis/zipball/f10eaf7a3093ebaf9ca56feb9a22d40addd87e41",
-                "reference": "f10eaf7a3093ebaf9ca56feb9a22d40addd87e41",
+                "url": "https://api.github.com/repos/composer/satis/zipball/0e8ea2bc28326219cae52142e166a63ba098f131",
+                "reference": "0e8ea2bc28326219cae52142e166a63ba098f131",
                 "shasum": ""
             },
             "require": {
@@ -129,7 +129,7 @@
                 "package",
                 "repository"
             ],
-            "time": "2015-06-18 23:52:27"
+            "time": "2015-07-02 09:36:28"
         },
         {
             "name": "graviton/deploy-scripts",
