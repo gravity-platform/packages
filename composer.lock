@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "d0ff01698de0eb74e45ebe379b6ac8ccd5a6b0db"
+                "reference": "8775c948956c9e0e0a5fd723cd84c94b3ea3d7e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/d0ff01698de0eb74e45ebe379b6ac8ccd5a6b0db",
-                "reference": "d0ff01698de0eb74e45ebe379b6ac8ccd5a6b0db",
+                "url": "https://api.github.com/repos/composer/composer/zipball/8775c948956c9e0e0a5fd723cd84c94b3ea3d7e9",
+                "reference": "8775c948956c9e0e0a5fd723cd84c94b3ea3d7e9",
                 "shasum": ""
             },
             "require": {
@@ -75,7 +75,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2015-06-20 11:58:19"
+            "time": "2015-07-01 09:29:53"
         },
         {
             "name": "composer/satis",
@@ -133,16 +133,16 @@
         },
         {
             "name": "graviton/deploy-scripts",
-            "version": "dev-develop",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/libgraviton/deploy-scripts.git",
-                "reference": "2ff3219b5516fb96d089d5724efd13bd05ee95a9"
+                "reference": "34c7c9355be29e1dad6049c95f3cd665f7c323e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/libgraviton/deploy-scripts/zipball/2ff3219b5516fb96d089d5724efd13bd05ee95a9",
-                "reference": "2ff3219b5516fb96d089d5724efd13bd05ee95a9",
+                "url": "https://api.github.com/repos/libgraviton/deploy-scripts/zipball/34c7c9355be29e1dad6049c95f3cd665f7c323e7",
+                "reference": "34c7c9355be29e1dad6049c95f3cd665f7c323e7",
                 "shasum": ""
             },
             "require": {
@@ -166,7 +166,8 @@
                     "file": "app/config/deploy.yml",
                     "env-map": {
                         "cf_bin": "CF_BIN",
-                        "cf_api_url": "CF_API_UR",
+                        "cf_process_timeout": "CF_PROCESS_TIMEOUT",
+                        "cf_api_url": "CF_API_URL",
                         "cf_username": "CF_USERNAME",
                         "cf_password": "CF_PASSWORD",
                         "cf_org": "CF_ORG",
@@ -192,7 +193,7 @@
                 }
             ],
             "description": "low level deploy helpers",
-            "time": "2015-06-22 11:54:41"
+            "time": "2015-06-24 15:43:22"
         },
         {
             "name": "incenteev/composer-parameter-handler",
