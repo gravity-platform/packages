@@ -4,7 +4,8 @@
     "require": {
         "composer/composer": "@dev",
         "composer/satis": "@dev",
-        "graviton/deploy-scripts": "@dev"
+        "graviton/deploy-scripts": "^0.3",
+        "gravity-platform/satis-template": "^0.1.0"
     },
     "scripts": {
         "post-install-cmd": [
