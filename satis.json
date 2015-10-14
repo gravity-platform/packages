@@ -19,5 +19,6 @@
       "libgraviton/swagger-ui": ">2.0"
     },
     "output-dir": "dist/",
-    "require-all": true
+    "require-all": true,
+    "twig-template": "vendor/gravity-platform/satis-template/view/views/index.html.twig"
 }
