@@ -20,5 +20,5 @@
     },
     "output-dir": "dist/",
     "require-all": true,
-    "twig-template": "vendor/gravity-platform/satis-template/view/views/index.html.twig"
+    "twig-template": "vendor/gravity-platform/satis-template/views/index.html.twig"
 }
