@@ -329,16 +329,16 @@
         },
         {
             "name": "gravity-platform/satis-template",
-            "version": "v0.1.1",
+            "version": "v0.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gravity-platform/satis-template.git",
-                "reference": "ee9d5ed0e43297e593951758dcf38183a389db3e"
+                "reference": "8b3353bcce347589f7f354742cb66aaef1cf10ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gravity-platform/satis-template/zipball/ee9d5ed0e43297e593951758dcf38183a389db3e",
-                "reference": "ee9d5ed0e43297e593951758dcf38183a389db3e",
+                "url": "https://api.github.com/repos/gravity-platform/satis-template/zipball/8b3353bcce347589f7f354742cb66aaef1cf10ed",
+                "reference": "8b3353bcce347589f7f354742cb66aaef1cf10ed",
                 "shasum": ""
             },
             "type": "library",
@@ -353,7 +353,7 @@
                 }
             ],
             "description": "Comstrap template for satis repos.",
-            "time": "2015-11-11 10:13:21"
+            "time": "2015-11-11 10:41:47"
         },
         {
             "name": "incenteev/composer-parameter-handler",
