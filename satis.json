@@ -13,6 +13,17 @@
         {
             "type": "vcs",
             "url": "https://github.com/libgraviton/swagger-ui.git"
+        },
+        {
+            "type":"package",
+            "package": {
+                "name": "antimattr/mongodb-migrations-bundle",
+                "version":"v1.0.1",
+                "dist": {
+                    "url": "https://api.github.com/repos/libgraviton/mongodb-migrations-bundle/zipball/150abde99715673908b6a81be4f8826a4d222c46",
+                    "type": "zip"
+                }
+            }
         }
     ],
     "require": {
