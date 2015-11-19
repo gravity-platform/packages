@@ -24,7 +24,7 @@
                     "type": "zip"
                 },
                 "autoload": {
-                    "psr-0": { "AntiMattr\\Bundle\\MongoDBMigrationsBundle\\": "" }
+                    "psr-4": { "AntiMattr\\Bundle\\MongoDBMigrationsBundle\\": "" }
                 }
             }
         }
